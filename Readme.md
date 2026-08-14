@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" width="24" height="24">
+  <img src="./assets/java_logo.png" alt="Java" width="20" height="20">
   Java DSA
 </h1>
 
@@ -30,7 +30,7 @@ A collection of **Data Structures and Algorithms solutions implemented in Java**
 
 ## 💻 Language
 
-<img src="https://cdn.simpleicons.org/java/ED8B00" alt="Java" width="20" height="20"> **Java**
+<img src="./assets/java_logo.png" alt="Java" width="20" height="20"> **Java**
 
 ## 🌐 Coding Platforms
 
@@ -69,4 +69,4 @@ Data Scientist | AI Engineer | Software Developer
 - 💼 LinkedIn: https://www.linkedin.com/in/aryan-raj-79246b280/
 - 📧 Email: aryanraj5371@gmail.com
 
-⭐ If this project helped you, please star the repository!
+⭐ If this repository helped you, please consider giving it a star!
