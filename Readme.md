@@ -1,5 +1,5 @@
 <h1>
-  <img src="./assets/java_logo.png" alt="Java" width="24" height="24">
+  <img src="./assets/java_logo.png" alt="Java" width="30" height="30">
   Java DSA
 </h1>
 
