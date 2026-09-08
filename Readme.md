@@ -42,7 +42,7 @@ I solve problems across multiple coding platforms, including:
 
 This repository is **continuously updated whenever I solve new coding problems**, regardless of the platform they come from.
 
-## 🎯 Purpose
+## 🎯 Objectives
 
 This repository helps me:
 
